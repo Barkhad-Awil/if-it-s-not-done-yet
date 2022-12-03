@@ -1,1 +1,1 @@
-write code outside sandbox
+This file is mandatory in projects
